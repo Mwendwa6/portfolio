@@ -21,6 +21,24 @@ header {
     align-items: center;
     background-color: transparent;
 }
+.container{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.container ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+.container li {
+    display: inline-block;
+    padding: 10px;
+    margin-right: 10px;
+  }
+
 .skill-bar {
     margin-bottom: 20px;
   }
@@ -118,6 +136,10 @@ section {
 
 h2 {
     color: #88fa8e;
+}
+
+h3 {
+    color: #fd3c5c;
 }
 
 .list2 {
