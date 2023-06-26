@@ -226,7 +226,7 @@ h3 {
 
 .image-container {
     position: relative;
-    display: inline-block;
+    display: inline;
   }
   
   .hover-text {
