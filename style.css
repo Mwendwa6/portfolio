@@ -21,6 +21,13 @@ header {
     align-items: center;
     background-color: transparent;
 }
+
+hr {
+    border: none;
+    height: 2px; 
+    background-color: rgb(87, 250, 65);
+    margin: 10px 0; 
+  }
 .container{
     display: flex;
     justify-content: flex-start;
