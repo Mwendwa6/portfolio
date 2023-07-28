@@ -155,7 +155,7 @@ h3 {
 .list2 {
     list-style-type: disc;
     color: rgb(9, 185, 53);
-    margin-left: 70px;
+    margin-left: 25px;
 }
 
 .resume {
@@ -269,6 +269,10 @@ h3 {
         font-size: 1.5rem;
         font-weight: bold;
         color: #244D61;
+    }
+
+    body {
+        margin: 5px;
     }
 
     header {
